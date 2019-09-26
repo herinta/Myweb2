@@ -7,6 +7,7 @@ header.header {
   position: relative;
   background-color: #343a40;
   background: url("../img/bg-masthead.jpg") no-repeat center center;
+  background-attachment: fixed;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -90,6 +91,7 @@ header.header h1 {
   position: relative;
   background-color: #343a40;
   background: url("../img/bg-masthead.jpg") no-repeat center center;
+  background-attachment: fixed;
   background-size: cover;
   padding-top: 7rem;
   padding-bottom: 7rem;
@@ -109,3 +111,6 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+
+
